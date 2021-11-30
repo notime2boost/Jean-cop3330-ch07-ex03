@@ -1,3 +1,9 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment6 Solution
+ *  Copyright 2021 Christopher Jean
+ */
+
+
 #include "std_lib_facilities.h"
 
 struct Token {
