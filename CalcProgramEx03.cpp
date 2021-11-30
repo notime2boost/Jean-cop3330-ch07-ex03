@@ -1,6 +1,6 @@
 /*
- *  UCF COP3330 Fall 2021 Assignment6 Solution
- *  Copyright 2021 Christopher Jean
+  UCF COP3330 Fall 2021 Assignment 6 Solution
+  Copyright 2021 Christopher Jean
  */
 
 
